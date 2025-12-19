@@ -51,3 +51,10 @@ Speed_Check() Function
     Download speed
     Upload speed
   Updates the GUI labels dynamically
+
+Future Enhancements:
+Add Ping (Latency)
+Add Auto Refresh
+Add Progress Indicator
+Convert into EXE file
+Improve UI with themes
